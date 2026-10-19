@@ -1,0 +1,6 @@
+{
+  "packages": [
+    "git:github.com/amosblomqvist/pi-interactive-subagents",
+    "npm:pi-web-access"
+  ]
+}

@@ -1,0 +1,13 @@
+node_modules/
+.pi/npm/
+.pi/git/
+.pi/sessions/
+artifacts/
+viz/
+.idea/
+*.log
+.env
+.env.*
+!.env.example
+.rxjs-session.md
+*.bak
